@@ -14,7 +14,7 @@ class FiotJournalLoader extends MvcPluginLoader {
 
         require_once ABSPATH.'wp-admin/includes/upgrade.php';
     
-        add_option('fiot_journal_db_version', $this->db_version);
+        add_option('wp_journal_db_version', $this->db_version);
         
         // Use dbDelta() to create the tables for the app here
         // $sql = '';

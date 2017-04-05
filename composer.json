@@ -1,5 +1,5 @@
 {
     "autoload": {
-        "psr-4": {"Magazine\\": "app/fiot-journal"}
+        "psr-4": {"Magazine\\": "app/wp-journal"}
     }
 }
