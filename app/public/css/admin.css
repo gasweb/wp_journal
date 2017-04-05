@@ -1,0 +1,20 @@
+.tibl-admin div.wrap form div{
+display: block !important;
+}
+.tibl-admin label{
+display: block !important;
+}
+.tibl-admin textarea{
+min-height: 100px;
+}
+.tibl-admin input[type=text], .tibl-admin textarea, .tibl-admin select{
+width: 80% !important;
+
+}
+.tibl-admin div.wrap form textarea{
+min-height: 300px;
+}
+.tibl-admin form div
+{
+	margin: 20px auto;
+}
