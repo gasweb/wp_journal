@@ -42,7 +42,7 @@ class MvcArticleService
         return $Journal;
     }
 
-
+    
     public function setArticle()
     {
         $Article = mvc_model('Article');
