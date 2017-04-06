@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: Fiot Journal
+Plugin Name: WP Journal
 Plugin URI: 
-Description: Плагин для журналов, издаваемых компанией ФИОТ («Туберкулез и болезни легких», «Вестник анестизиологии и реаниматологии»)
+Description: Плагин для размещения журналов (например «Туберкулез и болезни легких» http://tibl-journal.com)
 Author: Igor Sinitsyn
 Version: 1.0
 Author URI: 
