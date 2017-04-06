@@ -41,7 +41,8 @@ class MvcArticleService
         ));
         return $Journal;
     }
-    /* !!!UNDER CONSTRUCTION!!!!*/
+
+    
     public function setArticle()
     {
         $Article = mvc_model('Article');
