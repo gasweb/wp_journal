@@ -6,4 +6,4 @@ http://wpmvc.org/ - WP MVC plugin installed on your Wordpress
 Installation:
 
 1. use composer to install autoloader
-2. create tables ()
+2. create tables article, journal, section...
